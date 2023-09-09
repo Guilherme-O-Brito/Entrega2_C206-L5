@@ -1,0 +1,4 @@
+# Ignora todos os arquivos java compilados .class
+*.class
+# Ignora as pastas de configuração do VScode
+**/.vscode
